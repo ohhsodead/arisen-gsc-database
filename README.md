@@ -3,7 +3,7 @@ This repo contains all the data for the GSC files used in the [Arisen GSC Inject
 
 ## Contribute
 
-If you would like something added to the database, [open an issue](https://github.com/ohhsodead/arisen-gsc-database/issues/new?assignees=&labels=rmod request&projects=&template=mod_request.yml&title=%5BRequest%5D%3A+).
+If you would like something added to the database, [open an issue](https://github.com/ohhsodead/arisen-gsc-database/issues/new?assignees=&labels=rmod+request&projects=&template=mod_request.yml&title=%5BRequest%5D%3A+).
 
 ## Creators
 If you are the owner of anything and you would like it removed then please [open an issue](https://github.com/ohhsodead/arisen-gsc-database/issues/new) to let me know.
