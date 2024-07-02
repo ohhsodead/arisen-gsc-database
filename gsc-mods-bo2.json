@@ -1,0 +1,901 @@
+{
+   "LastUpdated":"2024-07-02T00:13:37.126946+01:00",
+   "Mods":[
+      {
+         "Id":1,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Acid Rain",
+         "Version":"3.0",
+         "CreatedBy":"RevDictator",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Acid%20Rain%20v3.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":2,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Bossam",
+         "Version":"6.0",
+         "CreatedBy":"BlossamBemass",
+         "SubmittedBy":"ohhsodead",
+         "Description":"★★Includes New Functions:★★\n\nNew Funny Weapons:★\nArrow Gun\n★Alien Gun\n★Dildo Gun\n★Chrome Gun\n★Robo Gun\n★Weird Gun\n//\n★Water Splash Mini Tornado In Forge Menu\n★Mud Splash Mini Tornado In Forge Menu\n★Stoned: in Self Menu\n★Camo Loop\n★Rockets To Space: in Sky Menu\n★VTOL To Space: in Sky Menu\n★Trippy Sky: in Sky Menu\n★Smoke Sky: in Sky Menu\n★Rain Rotors: in Sky Menu\n★New 17 MiniMaps: in Lobby Menu\n★Blow Job Show: in Forge Menu\n★Added More Spin Models To Spawnables Menu\n★Fixed All Bugs so V6 Has NO Bugs :)\n★Added 3D Animated Background\n★Even More Stable Now\n//\n★Added New Functions To Player Menu:★\nSpin Player\nInstant Freeze Players Console\nSet Player Real Low K/D Ratio To 0.01\n//\n★New Bullets in Modded Weapons Menu:★\n★Smoke Bullets\n★Dirt Bullets\n★Rave Bullets\n★Mud Bullets\n★Wind Bullets\n★Burn Bullets\n★Ghost Bullets\n★Sun Bullets\n★And Much More Upcoming★",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Bossam%20v6.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":3,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Caked Up",
+         "Version":"1.8",
+         "CreatedBy":"TehMerkMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"This Is A Small Update So Yeah Anyways Well please no hate like usual haha its just something i made for fun and if you can't understand that then groan and for everyone that does groan say why and what you didn't like im making this for fun not for people to say OMG Caked up is da shit like im sure each person just releases their menu for fun not to be hated on then have to reason why <3 But i hope you guys enjoy my update <3\n\nBugs:\nThere Are Some Bugs Such As The Client Menu But I Will Fix In The V2 <3\n\nCredits:\nZeiiken - Base\nTehMerkMods - Making it\nRileyErased - Other\nExelo - Other\nSatan - Other\nMrToxicBooty - Other\nCraigChrist8239 - Other\nseb5594 - Other\ndtx12 - Other\nTheFallen - Other\nInsane - Other\nResistTheEarth - Other\nTaylor - Other\nSatan - Other\naerosoul94 - Other\nFeverDex - Other\nShark - Other\nxSaberModz - Other\nKizza09 - Other\nlollo1000 - Other\nFriends",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Caked%20Up%20v1.8.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":4,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Confusion (Beta)",
+         "Version":"0.6",
+         "CreatedBy":"StonedYoda & CabCon",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Dear, NGU Commuity. Today I want share this with. This is a project with is based to do new functions Happy. That mean thats the first version and we will update more everyday Happy. We want that the community create this menu too. Feel free to post code Ideas or Codes below. You will get credtis Happy But now enjoy ! Your CabCon.\n\nUpdate Log\nFT = New Functions, never seen before !\nVersion 0.5\nBase\nDvar Editor\nTeleport Options\nFT Hitmarker Options\nForge Mode\nBullets Menu\nMain Default Menu\nVerfy System\nExtrem Stable Overflowfix By xTurntUpLobbies\nAll other stuff\n\nVersion 0.6\nNew Base Design\nNew Menu Structure\nFT Self Shadow\nFT Teleport Player to prision, for every map !\nWeapons Settings New Options (Camos, Give Weapons add Attachments,...)\nAdded Bots Menu\nAdded Bots Settings\nAdded Messages\nFT Added CabCons new real Aimbot (with aimbot settigns)\nFT Hud Options with Hud sounds\nMini Map Menu\nSpawntrap Option\nNew Player Functions\nAnd much more new ... (Cant type all down)\n\nNew thinks comming every Day ! ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Confusion%20%28Beta%29%20v0.6.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":5,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Destiny",
+         "Version":"1.0",
+         "CreatedBy":"BlueeMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Youtube.com/BlueeMoDs\n\nCredits:\nCmKsForLife\nTehMerkMods\nItsLollo\nTesters:\nTrilogy Coco\nFeud\nLewLobbies\nSam Aka Rapidz Modz\nAnd Many More Legends to Mention <3",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Destiny%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":6,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Dream Land",
+         "Version":"1.0",
+         "CreatedBy":"CupCakeMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Destiny%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":7,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"ELeGanCe",
+         "Version":"4.0",
+         "CreatedBy":"ELeGanCeMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"This is the best ModMenu available for Bo2. Zombies included. Enjoy Modding.\n\nCredits:\noG-Debug\noG-DexIta\noG-RebugMods\nCredits Asty\nCredits Zeikken\nPeople for Testing\nFRINZ (Hatez)\niMCSx",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Elegance%20v4.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":8,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"ELeGanCe",
+         "Version":"5.0",
+         "CreatedBy":"ELeGanCeMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Elegance%20v5.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":9,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Elysium",
+         "Version":"1.1",
+         "CreatedBy":"D&T Modding",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Thanks for using this Mod Menu!\nWe wrote it for ourself!\n\nChangelog:\nv1.1 = New Functions, New Overflow Fix",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Elysium%20v1.1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":10,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Ferrox",
+         "Version":"1.0",
+         "CreatedBy":"NicazeoHD",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Today I am relasing my gsc mod menu called Ferrox v1. If the menu have any bugs, please HMU ASAPSmile\n\nNOTE: You Will Have To Inject The Menu With GSC Studio Because Of The Size.\n\nCredits: Thanks To NGU And All The Other sites I Got The Codes From! ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Ferrox%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":11,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Fuck Sony",
+         "Version":"3.0",
+         "CreatedBy":"IonHD & RGBS",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Fuck%20Sony%20v3.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":12,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Inspire",
+         "Version":"1.0",
+         "CreatedBy":"thahitcrew modz",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hey Nextgenupdate, today i am deciding to release my menu that i was selling but i have seen it leaked on some other websites witch i cant say for obvious reasons but either way i have worked really hard on this menu with my modding team RTM and it has alot of unique functions in it such as a in game rgb editor but you can only use it so many times or you will freeze!, i hope you enjoy using it and im sorry to all of the people who has bought the menu.\n\nWhat's been updated/changed:\n-----Update 1-----\n- Entire menu optimized for smoother menu navigation & Overall menu stability improved (entire menu was originally over 20,000 lines of code, it's been optimized to under 14,000)\n- Keyboard system completely rebuilt\n\n-----Update 2-----\n- Menu's logic system re-written for smarter menu navigation\n- Around 90% of all the menus functions have been gone over and re-written\n- Added a few new features\n\nCredits:\nthahitcrew modz\nRTM\nxLucky Modz\nProTutZ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Inspire%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":13,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Inspire",
+         "Version":"2.0",
+         "CreatedBy":"thahitcrew modz",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hey Nextgenupdate, today i am deciding to release my menu that i was selling but i have seen it leaked on some other websites witch i cant say for obvious reasons but either way i have worked really hard on this menu with my modding team RTM and it has alot of unique functions in it such as a in game rgb editor but you can only use it so many times or you will freeze!, i hope you enjoy using it and im sorry to all of the people who has bought the menu.\n\nWhat's been updated/changed:\n-----Update 1-----\n- Entire menu optimized for smoother menu navigation & Overall menu stability improved (entire menu was originally over 20,000 lines of code, it's been optimized to under 14,000)\n- Keyboard system completely rebuilt\n\n-----Update 2-----\n- Menu's logic system re-written for smarter menu navigation\n- Around 90% of all the menus functions have been gone over and re-written\n- Added a few new features\n\nCredits:\nthahitcrew modz\nRTM\nxLucky Modz\nProTutZ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Inspire%20v2.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":14,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Loz Azza",
+         "Version":"2.0",
+         "CreatedBy":"Loz",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Maps Menu List:\nCarrier, studio, turbine, raid, uplink, drone, yemen, hijacked, standoff, detour, vertigo & mirage\n\nKnown Bugs:\nIf you find any let me know, ill try my best to fix em, thanks\n\nChangelog:\nSpoiler:\nChangelog 2:\nMenu Changes:\ntoggable public match edition *(more info below)\nnew welcome message\n& lots of little changes\nmenu customizations:\ncolor picker for evry text/shader\ntoggable options size (5 default - 7 big)\ntoggable scrollbar\ntoggable options align\ntoggable scrolling buttons (dpad up & down - l1 & r1)\ntoggable menu freeze\ntoggable scrolling fontscale effect\ntoggable scrolling glow\nOther Changes:\nadvanced crosshair aimbot (kills 1 player @ once, favor closer & only works while you arent on ground)\nequipment crosshair aimbot (works w/ evry gun & only w/ the latest equipment you deploy)\nballistic crosshair aimbot (same as advanced crosshair aimbot, only works w/ ballistic knife & in close/medium range)\nprestige editor instead of random prestige\ninvisibility (only available in public match edition)\nufo-mode\nfov slider\nbad remake of backflips (toggable direction & speed)\ninfinite ammo (doesnt affect clip)\ndrop 'canswap' now picks a random gun\nbackflip bounce (forge menu)\nfloaters off by default now (still toggable for evry single player & the host for all players)\nrealistic super jump\nforce host (only available while in public match edition)\nhost & menu heart\ngive players FFA points\n(other stuff i may have forgot)\n& rewrote/optimized lots of old functions\n*PUBLIC MATCH EDITION INFO\nother players doesnt have the menu on spawn\nyou can give/lock/remove them the menu\nmenu is fully stealth (beside funny hitmarkers & some iprintln's)\n(maybe more i cant remember?)\n\nChangelog 1:\n\nMenu Changes:\n(Special thx to xePixTvx)\nFull menu remembrance, submenus & options\nRemoved /n fix, added overflow fix\nInfinite scrolling & text effects (thx to xePixTvx)\nMore little features\nOther Changes:\nFloaters are now toggable (on by default)\nCalculated matchbonus for all lvls & capped for a few gms\nPre-set matchbonus values\nToggable fake bullet trail (on by default)\nCarepackage stall using real carepkgs\nBots random prestige & level on spawn\nBind bounce to dpad down\nAdded map mirage teleports\nSkree nac bind\nInstaswap bind\nEquipment bind (can toggle trought 7 equipments)\nMake bots look @ you\nChange self and/or bots appearance\nGive random weapon\nGive random equipment\nInfinite equipment\nAdded full camos menu\nFake blood\nEquipment list\nKill score menu (change kill xp popup)\nAdd 1 score/point for ffa (self) & tdm (own team)\nAdded an higher slide",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Loz%20Azza%20v2.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":15,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Alca",
+         "Version":"3.0",
+         "CreatedBy":"KillerGamer81",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Alca V3 By KillerGamer81\n--------------------------------------------\nControls\nTo Open : L1 + R3\nScroll : D-Pad Up And Down\nSelect : X\nBack : []\n--------------------------------------------\nWhats In The Menu - Alca V3\n\n- Main Mods\n- Lobby Menu\n- Fun Menu\n- Message Menu\n- Spawn Menu\n- Theme Menu\n- Forge Menu\n- Bot Menu\n- Aimbot Menu\n- Flying Menu\n- Weapon Menu\n- Bullet Menu\n- Map Menu\n- Killstreak Menu\n- Player Menu\n- All Players Menu\n\n- Menu Is Stable\n- The Menu Doesnt Kill when Given\n-------------------------------------------\n\nRemember To Leave Credits To\n\nYouTube/KillerGamer81\n\n-------------------------------------------\nWhats New In The Menu - Acla v3\n\n- In Player Menu There Is Freeze PS3 option ;)\n- Some Bugs Have Been Fixed\n- The Design is Animated\n- Modded Mini Maps\n- And some new stuff/options\n-----------------------------------------\nNext Update Alca v4\n\n-IDK lolz",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Alca%20v3.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":16,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Mensa",
+         "Version":"1.0",
+         "CreatedBy":"KillerGamer81",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Mensa%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":17,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Phantom",
+         "Version":"1.0",
+         "CreatedBy":"illdox",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Phantom%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":18,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Project Illuminati",
+         "Version":"1.0",
+         "CreatedBy":"nHxModz && Connerg123",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Project%20Illuminati%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":19,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Project Stoner",
+         "Version":"2.0",
+         "CreatedBy":"MR-BLUEMODS14 & LiamMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello Guys I am Releasing My GSC Menu Called Project Stoner Enzo\n\nMain Menu\n\nMain Mods Menu\nFun Menu\nAimBot Menu\nWeapon Menu\nAll Player Menu\nSpawn Menu\nLobby Menu\nVision Menu\nKill Streak Menu\nAccount Menu\nMessage Menu\nBullet Menu\nForge Menu\nMaps Menu\nMaps Menu 2\nPlayers Menu\nVIP\nCo-Host\nAdmin\nVerify\nUn Verify\nKick Player\nKill Player\nBan Player\nDerank Player\nTeleport Player to me\nTeleport to Player\nGive Player God\n+More",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Project%20Stoner%20v2.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":20,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Revolution (Remake)",
+         "Version":"1.0",
+         "CreatedBy":"The Dark Side",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Why not. Its not doing any good sitting on my computer. Ill update this maybe once or twice but, the menu isn't supposed to be amazing or ground breaking. Just made it for fun. <3 Plus mods should be free. This is supposed to be similar to the Revolution RTM menu by Enstone. Ill make it better as the days go by, ill release updates as soon as i can get them out.\n\nShark (Duh)\nIMx83\nLollo\nJWM614\niMCxs\nEnstone (For Inspiration)\nLoz (For the Infinite Ammo, and Keyboard)\nYou for using it, and leaving feedback. <3\nIf i missed anyone, let me know. I always seem to forget one person.\n\nFirst of all, i couldn't add in a name changer, because its gsc. So... Yeah. I don't know how to accomplish such a feat.\nSecond, I don't have a do-heart in yet, the verification doesn't stick between rounds yet, and the custom message is glitchy. Ill change that in due time.\nThird, If you don't like it, don't hate. No, this isn't hard and wasn't hard to make. But i thought it was neat, and its good for stability.\nFourth, Ill eventually make it to the point where the name changing and weapon definitions are the only things that are lacking.\n\nAdded a few things in that weren't in Enstone's Revolution that it needed or just lacked.\nAdded a Ban player function.\nAdded Weapon Model in place of the weapon definitions.\nAdded Remove Menu in the players menu.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Revolution%20v1%20%28Remake%29.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":21,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Stroudify",
+         "Version":"2.0",
+         "CreatedBy":"Stroudy",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello NGU, i Have Recently Made a GSC Menu For Black Ops 2. The Reason i Made This Menu is Because i Wanted to Make a Small Menu With Just The Stuff i Frequently Use But it Felt Really Empty. So i Started Adding More And More Functions, Now i Just Wanna Stick It on NGU For Other People To Use.its also got Most of the Modded gamemodes i normally play built in Like Sniper Lobby, The Floor Is Lava, RollTheDice, Cranked, Michael Myers, Regen. With the floor is lava when you load the gamemode press dpad right when your in the game to fix the spawning in the middle of the map bug. The Download has PS3, PC, AND GSCR Files\n\nPress L1 And R3 To Open\nPress Square to Select\nPress DPAD UP and DPAD Down to Scroll\nPress R3 To Go Back And Close The Menu",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Stroudify%20v2.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":22,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Unofficial RDC",
+         "Version":"2.6",
+         "CreatedBy":"xJessex",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hey guys, there we go with the RedDotCity V2.\nThis menu was coded using Shark menu base, overflow was fixed by shark <3.\nIt's took me alots of time, ( 10 hours ) to make everything.\nIt's clean, stable, and fun to use online.\n\nIt's was tested on both ps3 and pc and its stable.\n\nI didn't see alots of bugs inside, maybe you can tell me any ?.\n\nCredits List :\nCraigChrist8239\nseb5594\ndtx12\nTheFallen\nInsane\nResistTheEarth\nTaylor\nSatan\nZeiiKeN\naerosoul94\nFeverDex\nShark\nSaberNGU\nKizza09\nItsLollo1000\nMegaMisterxD\nKɴᴏᴛᴛᴇᴅSʟᴜɢ\n\n\nControles :\nCrouch + Frag To Open.\nJump To Select.\nUse To Back.\n\n\nAccess:\n\nVerified : Weapons Menu, Theme Menu, Visions Menu, Model Menu.\nVIP : Weapons Menu, Theme Menu, Visions Menu, Model Menu, Main Mods Menu, Fun Menu, Bullets Menu.\nAdmin : Weapons Menu, Theme Menu, Visions Menu, Model Menu, Main Mods Menu, Fun Menu, Bullets Menu, Message Menu, Killstreaks Menu.\nCo-Host : Weapons Menu, Theme Menu, Visions Menu, Model Menu, Main Mods Menu, Fun Menu, Bullets Menu, Message Menu, Killstreaks Menu, Lobby Settings, Spawn Bots, Aimbot, Host Menu, .\n\nUpdated : V2.1\n- Fixing Freeze Functions.\n- Fixing Functions that wasn't toggle correctly.\n- Adding Informations for forge mode\n- Adding Toggle to Some functions like Anti-Quit, Flashing, Earthquake Gun, etc.\n- Adding the compiled version for the PS3.\n\nHave fun",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Unofficial%20RDC%20v2.6.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":23,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Velocity",
+         "Version":"2.0",
+         "CreatedBy":"LiamMods",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hey NGU\n\nToday I Am Releasing My Second GSC Modmenu Called Velocity V2\nLet Me Know In The Comment Section Below If Nothing Works & I'll Try To Fix It ASAP\n\nEnjoy The Menu <3",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Velocity%20v2.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":24,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Avalanche",
+         "Version":"1.1",
+         "CreatedBy":"Extinct",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello guys its Extinct here releasing my newest gamemode called 'Avalanche' this gamemode is a gamemode from Grand Theft Auto 5, When i first seen it i had an urge to remake it for Black Ops 2 i personally think this is a fun gamemode to play with friends in a private match or just with randoms, while testing this gamemode i have experianced some bugs but them bugs are now fixed, if you find anymore bugs please let me know and ill try my best to fix them!\n\nAvalanche has two teams, One team called 'Awesome faceefenders' and the other called 'Runners', the 'Runners' mission is to dodge all the falling models and try to make it to the top of the slope and kill the 'Awesome faceefenders' before they kill them, Team 'Awesome faceefenders' mission is to shoot as many levitating models before the 'Runners' get to the top, the runners will have death machines to kill the 'Awesome faceefenders' while the 'Awesome faceefenders' will only have snipers!\n\nNote: I do NOT want anyone changing my name to there name in the gamemode, just please remember i have put time and effort into making this gamemode so please leave me credits!\n\nChange Log:\n\nUpdate V1.0\n~ First Release\n\n\nUpdate V1.1\n~ Fixed Freezing that occurred when attackers got shot sometimes\n~ Added Support for 18 players\n~ Added More barrels to shoot\n~ Added More Defenders snipers\n~ Source Updated\n\nCredits:\nLoz ~ Scripts & help\nImcsx ~ Gsc Studio\nDtx12, xTurntUpLobbies, Jwm614 ~ Overflow fix\nkokole, dtx12, master131, craigschrist ~ Making Bo2 Gsc Possible",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Avalanche%20v1.1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":25,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Cranked",
+         "Version":"1.0",
+         "CreatedBy":"Exelo",
+         "SubmittedBy":"ohhsodead",
+         "Description":"This game mode is from Call of Duty Ghosts where you need to get cranked and keep killing to stay cranked or else you'll blow up. When cranked you have a bunch of speed perks to keep you constantly rushing for your next kill.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Cranked%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":26,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Death Run",
+         "Version":"1.0",
+         "CreatedBy":"Extinct & SeriousHD-",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello guys its Extinct here making a thread on behalf of myself and SeriousHD- we were talking and he was saying how he wanted to make a gamemode and we decided to do a collab with Death Run since we thought it would be fun playing with a group of friends, Death run was originally from GMOD also if you guys find any bugs please let us know and we will fix them when we get some free time, thanks!\n\nDeath Run has one 'Activator' and his job is to activate the traps at the right time so the 'Runners' die from the traps, The 'Runners' need to duke the activator so he activates the traps too early or too late, if you succeed all 10 traps that will be in a random order you get a knife to kill the activator while he can not fight back!\n\nNote: I do NOT want anyone changing our name to their name in the gamemode, just please remember we have put time and effort into making this gamemode for your enjoyment so please leave us credits!\n\nChange Log:\n\nUpdate V1.0\n~ initial Release\n\nCredits:\nSeriousHD- & Extinct ~ Developers\nLoz - Scripts\nImcsx ~ Gsc Studio\nDtx12, xTurntUpLobbies, Jwm614 ~ Overflow fix\nkokole, dtx12, master131, craigschrist ~ Making Bo2 Gsc Possible",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Death%20Run%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":27,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Fallout 4 (HUD)",
+         "Version":"1.0",
+         "CreatedBy":"Extinct & SeriousHD-",
+         "SubmittedBy":"ohhsodead",
+         "Description":"You can probably use this in any gamemode. This mod is bootleg as fuck. It all works, but I dunno how well it holds up. It has a twitter advert so add your own name or follow my shit.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Fallout%204%20%28HUD%29.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":28,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Floor is Lava",
+         "Version":"1.5",
+         "CreatedBy":"YouViolateMe",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Details:\nThis gamemode is a fan favorite! Especially one of my favorites! So I was trying to come up with ideas for a new gamemode and since I couldn't think of anything, I decided to do this. This gamemode only works on one map, hijacked (for now). I thought about doing it for all maps, but I decided I would let others make their own map! In the Pastebin, you'll see that I have included custom functions for creating your own 'The Floor is Lava' gamemode. If you do not have a good understanding of GSC, please do not ask for me to make you a custom gamemode. These custom functions can be pretty confusing to understand. Their are 7 different 'types' of objects you can place. I will go into detail about each one, and how to set it up below.\n\nTypes:\n\nSpawnBase - spawn a base platform so players can spawn on, and not fall off (this was the most requested feature! sorry it took so long!)\nNewSet - simple set of care packages that you can jump on\nStaircase - pretty easy to understand, a simple set of care packages that ascend in height as you go up\nCheckpoint - a care package that saves your progress\nSidewaysMover - a pair of care packages; one moves, one acts as a platform\nPouncer - a pair of care packages; one waits til you get close to move, one acts as a platform\nGuessingBlocks - a set of care packages; one care package is the true one, while the other 2 are fakes and will teleport you back to the last checkpoint (these are randomized each game)\nTeleporting Blocks - a set of care packages, that changes position at different intervals (between 5 and 15 seconds)\n\n\nChangelog:\n\nv1.0\n-Initial Release\n\nv1.1\n-Fixed bugs\n-Added carrier\n\nv1.2\n-Removed carrier for now\n\nv1.3\n-Added Yemen map edit to source\n-Added SpawnBase() feature\n\nv1.3b\n-Added Carrier Map Edit\n\nv1.4\n-Added new obstacle -> teleporting blocks\n-Fixed terminal script error (PC)\n\nv1.5\n-Added Turbine Map Edit\n-Fixed a bug with the elevator\n\n\nCredits:\ndtx12 & Craig Christ (none of this would have been possible without these 2 guys <3)\nIMCSx - GSC Studio\nItsLollo1000\nxTurntUpLobbies - Idea\nYouViolateMe\nJokerRey\nRaz0rMind\nExelo -- cuz he requested it",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Floor%20is%20Lava.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":29,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Golden Gun",
+         "Version":"1.0",
+         "CreatedBy":"Loz",
+         "SubmittedBy":"ohhsodead",
+         "Description":"**this is a FFA only gamemode**\n**go prone & press dpad left to toggle force host**\n\nxTurntUpLobbies suggested me to remake this gamemode from GoldenEye 007 (Quake source?), after he briefly explained me & watched a few videos i decided todo it, the gamemode isn't the exact same as the original or any variation of the original mod, but in general its pretty much the same beside a few little differences (read rules & info below)\n\nRules & Info:\nThe golden gun will always get one hit kills (collaterals aswell)\nEvryone can see the golden gun position with a world shader (an 'head icon' like carepkg & dead player ones)\n\n7 random guns spawn around the map with 30 seconds cooldown after a player picks em up (with correct name in the hint string & correct shader on the minimap)\nKills count towards your score only with the golden gun\nFirst player that gets to 20 points, wins the game\nYou can't pickup any of the random weapons while holding the golden gun\nThe one who kills the player with the golden gun, gets awarded with it\nIn case the player with the golden gun suicides or other specific situations (example killing simultaneously), the golden gun will respawn to its original position\n*if you didn't saw the red text @ the beginning*\nThis is a FFA only gamemode\nGo prone & press dpad left to toggle force host\n\nDownload Links:\nCompiled Console\nCompiled Pc\nProject Shared\n\nCredits:\ndtx12 - master131 - craigschrist //making bo2 gsc possible\nimcsx //gsc studio\nxturntuplobbies //overflow fix - suggested gamemode & took a few decisions on it\nsygnus //weapons shaders",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Golden%20Gun.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":30,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Gun Money",
+         "Version":"1.0",
+         "CreatedBy":"TheHiddenHour",
+         "SubmittedBy":"ohhsodead",
+         "Description":"You earn money if you get kills or die and you can buy weapons with your money.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Gun%20Money.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":31,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Haunted",
+         "Version":"1.0",
+         "CreatedBy":"CoolJay",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello fellow Black Ops II modders i have created a new gamemode!\nThis gamemode takes game mechanics and style from many\nHide and Seek Based games and if you have looked around on Youtube\nyou may have seen the new game 'Dead Realm' and that's what this gamemode\ntry's to imitate in a way\n\nUpdates Log:\n\nUpdate 1(15/09/2015)\n\nRelease (09/07/2015)\n\nGamemode Objective:\n\n- Everyone spawns in and a 15 second timer counts down to 1 and\nrandomly picks a player to be the 'Hunter' the hunter's objective\nis to kill everyone alive before the game time runs out.\nThe people who aren't selected to be the hunter are the 'Survivors'\nthe survivors objective is to survive until the game time ends.\nWhen the 'Hunter' is near a 'Survivor' the survivor will see\nred bars popup on his screen to show that the 'Hunter' is nearby\nand what direction he is coming from.\nWhen a 'Survivor' is near the 'Hunter' the hunter will see\nhit markers popup on his screen to show that a 'Survivor' is nearby.\n\n- The 'Hunter' will receive a Knife, Smoke Grenade, and has 3 options he can use\n\nUp on the Dpad = Infrared Vision For: 30 Seconds\nLeft on the Dpad = Invisibility For: 20 Seconds\nDown on the Dpad = Third Person Toggle\n\n- Both the 'Infrared Vision' and 'Invisibility' Have Cool down times after usage (2 Minutes Each)\n\n- The 'Survivor' has no weapons but 2 Flash Grenades, 2 Concussion Grenades, and has 4 options he can use different from the hunter\n\nUp on the Dpad = Slow Hunter For: 5 Seconds\nRight on the Dpad = Clone\nDown on the Dpad = Third Person Toggle\nLeft on the Dpad = Blocker\n\n- Both the 'Slow Hunter' and 'Clone' have cooldown times after usage (Slow Hunter = 4 Minutes, Clone = 1 Minute)\n\n- Blockers spawn in and disappear after 5 seconds and have a cooldown after usage (90 Seconds)\n\n- This gamemode currently has a custom map edit for 'Nuketown'\nwhich includes lots of flags and invisible jump spots that you can find around the map.\nInjection:\n\nGamemode Setup:\n\n1. Get host position.\n\n2. Set the gametype to 'Team Deathmatch'.\n\n3. Start game.\nCreating Map Edits:\n\nKnown Issues:\n\n- The red bars that come up when the 'Hunter' is nearby can kill the 'Survivor' if he\ncontinuously is next to the 'Hunter'.\nCredits:\n\n- CoolJay\n- Shark (Used his time remaining feature and forge functions.)\n- jwm614 (Used his map edit feature.)\n- TheHiddenHour - (Used functions and built this from his original 'Michael Myers' gamemode.)\n- Frinz (Helped me with the 'Blocker' scripting.)\n- iMCSx\n- dtx12",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Haunted.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":32,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Hells Treadmills",
+         "Version":"1.3",
+         "CreatedBy":"Nothingbutbread",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello NGU, here is my now 2nd most recent gamemode 'Hell's Treadmill'\nHell's Treadmill is a skill based timed parkour gamemode where players try to survive as long as possible on a cycling belt of carepackages.\nThere are 2 modes in Hell's Treadmill. A FFA structured mode and a Team structured mode.\nThe FFA structured mode takes place in the FFA gamemode and players try to get the highest single time.\nThe Team Structured mode takes place in the TDM gamemode and players are assigned into teams and the times of every member of each teams runs are added together. The team with the most time wins.\n\nNote: Latency to the host is felt far more in this gamemode than others (The lower your ping the better) You may gitch around sometimes while on the treadmill if you're not host.\n\nThis mode is now fully supported for Public Match play.\n\nChange Log\nV1.3.0\n1) Fixed a bug in the theme menu where if the player tried to select a theme within a second of the themes options appearing on screen, the intro HUD would stop functioning.\n2) Fixed a bug where an Overflow patch would cause some of the HUD colors to change.\n\n3) Fixed a bug where the treads would become out of sync with each other\n4) Added support for Public Match play\n- If the map selected isn't Carrier the game automatically switches to it\nNote: All players connecting to the game after this happens will not be able to join until the game is back in pre-game lobby.\n- ForceHost is automatically enabled, starting up a game in custom games automatically enables force host upon spawning in as host.\n- If an unsurported game type is loaded, the game ends automatically.\n5) The active timer now displays in a HUD element instead of using the Black ops 2 game timer.\n6) Changes to the rank names from Rank 10 to 14.\n7) Added in Unlocks and high score that are automatically given to players when they spawn in.\n\nKnown bugs\n1) Timer sometimes randomly adds or subtracts .0001 at random and sometimes counts up by .1 instead of in increments of .04.\n2) When the mod has been injected more than once or twice, the Theme Selector sometimes glitches out, forcing you to exit the game via the XMB Screen.\n\nCredits:\nShark - Some Forgefunctions and dependency forge functions.\nHiddenHour - General help and bits of script / Feedback / Answering face-palm worthy questions / Latency testing\nxTurntUpLobbies - Overflow Fix\n\nFuture releases:\n- This is slated for a V2.0 Update sometime before the end of 2017. This will address all issues present in the current version.\nLast edited by Nothingbutbread ; 08-05-2017 at 03:39 AM. Reason: Updated Future Releases Info again",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Hells%20Treadmills%20v1.3.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":33,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Hotline",
+         "Version":"1.0",
+         "CreatedBy":"TheHiddenHour",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Everyone spawns with anoter mask on his head. Ever mask has another special power:) first player with 30 kills wins.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Hotline.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":34,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"The Hunger Games",
+         "Version":"1.0",
+         "CreatedBy":"CoolJay",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello fellow Black Ops II modders i have created a yet another gamemode\n\nThis gamemode is based on 'The Hunger Games' which you may have seen the movie\nor maybe you have played other games with a 'Hunger Games' styled gamemode like this.\nThis try's to imitate all of those while having tried my best to make it a strategical and fun\ngamemode to play.\n\nUpdate and Changelog\n\n5/10/2015: Official Release Only Works On 'Drone' At The Moment\n\n10/9/2015: Update 1\nAdded:\n\n- A clean new format for where map edits are placed,\nincluding the way the map edits are called, to prevent glitching\nand things not spawning in properly.\n\n- A offset method for my 'Drone' map so that you can copy and\npaste my weapon shed into another map and change the offset and\nre-position the entire weapon shed as a whole instead of moving each\nindividual model\n\n- The map always changes to 'Drone' when the game starts, this\nis temporarly until more map edits can be made, so now you can do\npublic matches.\n\n- Longer Killcams.\n\nFixed:\n\n- Player can no longer have more then two weapons.\n\n- Sometimes players who spawned in late where spawned inside the map\nit now forces those players to spectate.\n\n- B23R now has ammo with it.\n\nChanged:\n\n- Weapons now have larger grab range, so they are now\neasier to pickup while running into the weapon shed and going near\nthe benches the weapons sit on.\n\n- Weapons can now be picked up faster.\n\n- Damage Enabled works better.\nHow The Gamemode Works:\n\nThe game starts and all player are given a introduction to the gamemode\nand are teleported to playing arena. Shortly after a 10 second countdown will appear,\nwhen the countdown reaches 1 players are free to move and run to the weapon shed where they\nwill choose from a large selection of 59 different weapons available to them. Whilst this is happening there\nis a 10 second no damage period which prevent players from dying straight away when trying to grab a weapon.\n\nThe objective is to be the last one to survive whether you decide to hunt or\nbe hunted. Players multiple things around the map such as bridges and zip lines around the map that allows them to hide in trees\nfor better area cover for targeting.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Hunger%20Games%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":35,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Hunted",
+         "Version":"1.0",
+         "CreatedBy":"YouViolateMe",
+         "SubmittedBy":"ohhsodead",
+         "Description":"I dont know to much about this game mode but its a game mode from assassins creed. And you need to find the selected character to gain points and win. If you kill the wrong person, you get penalized. \n\nFFA ONLY!!",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Hunted%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":36,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Michael Myers",
+         "Version":"1.0",
+         "CreatedBy":"Natsu",
+         "SubmittedBy":"ohhsodead",
+         "Description":"I've been working on this Michael Myers Game Mode for this week, and although it's not complete, I thought i'd release it to the community while I continue to edit it more, and also to give other people a chance to edit the game mode as well and try to improve it.\n\n\nHow To Play:\n\nStay Alive and don't get killed by michael. You cannot kill michael until you are the last player standing. That's basically it. Also, this game mode works best on Team Deathmatch, but Micahel can also be Manually be chosen by the people in the lobby. There's an automatic Micahel Picker that works for the most part, but of course it's still being poked at. If you edit the game mode, be sure to leave credits. Enjoy!",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Michael%20Myers%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":37,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Paintball",
+         "Version":"1.0",
+         "CreatedBy":"JuniorChange",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hey Everyone! I've been working on this Game mode since the summer, but just haven't had the time to release the game mode (But I have been playing it Winky Winky). The game mode is called PaintBall Most of you may have played the normal unmodded-Paintball custom game made famous by VanossGaming and 'The Crew'. But I've decided to re-make the game for the modded community! I've expanded the map and added a few extra twists =D. Keep in mind that this is my first modded gamemode and menu so please expect some bugs and I am open to criticism and advice! I will be updating the gamemode regularly to fix bugs. Hope you all enjoy!!!\n\nRules and how to PLAY:\n\nThe game mode is pretty simple to understand basically it's normal TDM on Rush (ONLY) but you will only be able to play in the arena and outside field. Both teams are not allowed to cross the halfway line (OR DIE) which is represented by the skulls on the mini-map. Each team can use the teleporting flags to enter the outside field. For teams on the 'Allies' they can also teleport to a sniping tower where players can snipe enemies, with snipers found in the mystery box. Players can hold the reload button to open doors that are represented by red care packages.\n\nMenu Is not completely finished for the 'All players menu'\n(in arena) If player jumps from long box diagonally to the other side of halfway mark they will not die\n\nCredits:\n\nMe: Creator of the Modded Gamemode: JuniorChange\nVanossGaming 'The Crew': Creator of the original Un-Modded gamemode\nShark (Doors, Flags, mapedit script, information bar)\nZ0neyDanza (mystery box)\nZeiiken's / Africanized (menu base)\nWho ever made the scrip for the Bunker (can't find the creators name)",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Paintball%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":38,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Regen",
+         "Version":"1.0",
+         "CreatedBy":"JuniorChange",
+         "SubmittedBy":"ohhsodead",
+         "Description":"I used to play this gamemode on Red Eclipse. You get a certain amount of health per kill, but when you die it gets reset back to default.\n\nI played both of the Gun Moneys on TDM and FFA. Play Michael and Hotline on FFA. Regen can be played pretty much anywhere.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Regen%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":39,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Red Light Green Light",
+         "Version":"1.1",
+         "CreatedBy":"StupidEdits",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Supported Maps: Nuketown2025(DLC), Grind(DLC1), Frost(DLC4), Standoff, Raid, [NEW]Slums, [NEW]Overflow\n\n\nHowdy, I'd like to introduce you all to my take on a childhood favorite game, Red Light Green Light in Black Ops 2. Hopefully people are still around and will be able to enjoy a new game mode release that will hopefully be fun for everyone. This took me a little time to make as I'm fairly new to scripting, but before this I was enjoying using WaW Modtools and creating various levels that I'm still slowly working on currently.\n\n(3/25/1Cool Man (aka Tustin): NEW UPDATE RELEASED! This new update comes with some gameplay fixes, new powerups, maps, gametypes, etc. For a full rundown look at the update list below. Didn't mean to take this long to release an update, after release I haven't touched it in some time, but now I'm glad to be able to release an update. I'll still be updating this gamemode or the time being, and if you have any suggestions, improvement, or additions you would like to see added, plea don't hesitate to reply below!\n\n____\n\n\nGameplay:\n(If anyone would like to make a proper gameplay video by all means go for it and I'll link it here, until then I'll upload a short video whenever).\n\n____\n\n\nObjective:\nSimple, the point of this game is to be the first person within your group to make it to the finish line. Just like the original game the challenge is to only move on green, and stop on red or any other color that's not green. In this game mode there are extra colors to add variance. Moving during any of these visible colors will also result in a loss for the duration of the game. Dog tags represent potential power ups, these power ups can either help, hurt, or do literally nothing for you. There can only be 1 winner per group, if there are multiple you're put into a mini-arena where you're forced to knife to the death, the last one standing will be the overarching winner.\n\nRacers: You're only allowed to move on Green, if you move on anything else you will get caught, and will be out for the remainder of the game. Pick up power ups (dog tags) to have a chance of changing the current competition, but remember that not every power up will help you. The first one of you to make it to the finish line win that round while the rest of the racers take the loss.\n\nWaiting Line: Those of you in the waiting line are in the process of waiting for the next game, you're spectating the current racers while you wait your turn, nothing more to enjoy.\n\nLosers: Well.. nothing more to say but you suck, the game is over for you and you'll need to wait for a brand new game to be able to participate again.\n\nWinners: Depending on the instance of the game you're in, you're waiting for the rest of the racers to finish their turns, if there are multiple winners at the end of the races you're forced into a mini-arena to knife to the death.\n\n\nJoined late: Sorry, the game is designed to not allow people that joined late to race (also helps prevent people from leaving and rejoining and racing again).\n\n_\n\n\n[NEW] Racers Royale:\nWith this new gametype added within update 1, you now have the ability to race with up to 18 (max) players! This gametype is exclusive to only the disc content map Overflow. Racers Royale features additional exclusive powerups, general changes, and fast-paced color cycles. If you come across any issues please reply as I wasn't able to fully test this gametype yet.\n\n____\n\n\n\nPower-ups List:\n> Royale Powerups: Empowered powerups that have the ability to affect the grabber, and random racers.\n> Lives: Gain the ability to increase your life count. When caught with lives you're given another chance, but frozen in place for 3 seconds.\n> Freeze: Gain the ability to freeze other racers.\n> Quick Feet: Gain the ability to gain additional speed.\n> Slow: Gain the ability to slow other racers.\n> Multi-jump: Gain the ability to multi-jump.\n\n> Vunerability: Gain the ability to make any racer vulnerable for the duration or the race. (No powerup can change this, you will be prone to death for the duration of the round)\n> Blindness: Gain the ability to every other racer.\n> Teleporting: Gain the ability to witch places with a random racer.\n> Teleporting: Gain the ability to teleport a random racer.\n> Ante-up: Every racer gets a throwing knife and no longer has invincibility, BUT you're only allowed to attack during Green Light.\n> Vanish: Every racer is invisible.\n\n> Lives: Gain the ability to decrease your life count. (If you're already at 0, nothing will happen)\n> Blindness: Gain the ability to blind yourself.\n> Freeze: Gain the ability to freeze yourself.\n> Slow: Gain the ability to slow yourself down.\n> Nada: Gain the ability to get absolutely nothing.\n> Setback: Get reset back to the start.\n\n\n\nUpdates: (Sorry I don't have spoilers as far as I can see)\nUpdate 0: Release (2/16/1Cool Man (aka Tustin)\nUpdate 1: Redlight Greenlight - UPDATE 1 - Pastebin.com (3/25/1Cool Man (aka Tustin)\nUpdate 1-1: Fixed issue with player movement not working properly with colors, and spawning issues in Racers Royale for the 2nd position.\n\nPlanned:\n[+] Map variance\n[+] Additional Power ups\n[+] Additional Map Support\n[+] Additional excitement for Racers Royale (Added mechanics)\n[+] Others\n[+] (Let me know what else I should add below!)\n\n____\n\nBugs:\n- Overlapping power ups canceling each other out.\n(Please let me know if you find any below!)\n\n____\n\n\nCredits:\n> EternalHabit & others- GSC Resource thread | Various method and function\n> Matrix - Grabbed build functions from his Dodgeball script\n> Vaskq & Kismeh - Main testers I bothered\n> TheFallen = Overflow fix\n> StonedYoda = Custom error message\n> Anyone else I forgot to mention Sal\n\n____\n\n\nNote:\nYou can change the group size if you're using the source files by changing the value of\n\nLine 35 --- level.PPR\n\n(Default and max size being 4).\nDownload Link\n(Updated: 3/25/1)",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Red%20Light%20Green%20Light%20v1.1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":40,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Roll The Dice",
+         "Version":"1.3",
+         "CreatedBy":"StupidEdits",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello NGU.\n\nUpdate 3 Now released\n\nIt would be nice if you guys can post a nice comment and tell me what you think about this GamemodeSmile\n\nToday im going to Release my Roll the Dice Gamemode for Black ops2\n\nI noticed all of the 2 already released Roll the Dice gamemodes are buggy and sometimes player frozze or got kicked. I Recreated The gamemode and made this stable version with new rolls \n\nI played this alot and i found no bugs. If you find a bug pls tell me.\n\nI only played this in FFA and TDM. i dont know if it works without bugs in other Gamemodes but it should work.\nHow to play??\n\nEvery Player spawns with a diffrent special function. You can roll 1 of 60 on every spawn. Sometimes you can Reroll and get anoter bad or good function\n\nCredits:\n\nShark\nYouViolateMe\nTheHiddenHour\ndtx12CraigChrist\nFeverDex\nTurntUpLobbys\nxIMCs\nLoz (Coolest guy here on NGU <3)\nTehMerkMods\njwm614\nif i forgot someone pls tell me\n\nUpdateLog\n\nUpdate 1: 20 more rolls and Killfeed show what other players got\nUpdate2: 6 more rolls and i added a Roll list to the thread\nUpdate3:10 new rolls\n\nRoll list\n\n#1.No Perks\n#2.All Perks\n#3.Third Person\n#4.Tripple HP\n#5.Speed x2\n#6.Infared Vision\n#7.VSAT ON\n#8.Riot Man\n#9.Taliban\n#10.Stalker Pro\n#11.No Aiming allowed\n#12.Unlimited Frags\n#13.Sticks and Stones\n#14.Turtle\n#15.Unlimited Ammo\n#16.Godmode for 15 seconds\n#17.Fire in the Hole\n#18.You are Retarded\n#19.AZUMOOBS´s SUB SETUP\n#20.NOOBTUBE\n#21.Shitty Magnum\n#22.FaZe Mode\n#23.Gaymore\n#24.T-Bag Time xD\n#25.Melle Range for 5 seconds\n#26.Knife Action\n#27.Enhanced Vision\n#28.Try to Kill xD\n#29.Sentry Gun\n#30.Speed x2 and Godmode for 10 seconds\n#31.Golden Crossbow\n#32.C4 Man\n#33.Bullseye\n#34.Haha you got Nothing\n#35.You are a one hit Kill\n#36.SMAW\n#37.You got nothing but we Roll again\n#38.No Guns Knife only\n#39.UAV Jammer\n#40.We Roll twice Winky Winky\n#41.Go get 'em Makarov\n#42.Thunder Gun\n#43.No Guns\n#44.EXORCIST\n#45.Glitched Five-seven\n#46.Rocket Magnum\n#47.Grenade Fireballs forever\n#48.default_weapon\n#49.Minecraft Man\n#50.More Weapon and Explosive Damage\n#51.Throw dem Mines\n#52.No Scopes Only :P\n#53.Bright Vision\n#54.Unlimited EMP Grenades\n#55.OMG Tripple Roll Happy\n#56.Super Mod Pack\n#57.You need Ammo!\n#58.C4 Suit\n#59.Raygun\n#60.Mustang & Sally\n#61.Walking AC-130\n#62.Quick Scope only :P\n#63.Random Class Setup\n#64.Electric Gun\n#65.Suicide\n#66.Apple iPad\n#67.Blue Vision\n#68.You are EMPd\n#69.Change Apperance\n#70.SneakerStreets Setup\n#71.African Warlord\n#72.Ratatatatatatata\n#73.Multijumps\n#74.You are a Dog\n#75.PHD Flopper\n#76.Kappa Kappa\n\nEnable Force Host with Prone + dpad right\n\nNow go and Have Fun ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Roll%20The%20Dice.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":41,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Zombieland",
+         "Version":"1.9",
+         "CreatedBy":"Shark",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello All, as many of you may know or may have heard that I was making a zombieland game mode if you ever were on MW2 at the time when the jailbreak for 3.55 went big and everyone was using GSC mods then you may have heard of this game mode if not then don't worry as I will explain it later on in this thread!\n\nThis Gamemode has taken me almost 2 weeks, as I pretty much started coding it from scratch. At the moment it is only compatible in GSC Studio by iMCSx (you can find it in the modding tools section).\n\nInformation Regarding Edits\nI don't want to see any edits of this released unless you ask for my permission, however this does not mean you are not allowed to edit this to your liking it just means if you are going to release it then please seek my permission first and provide proof that you have actually done quite a large 'edit' and not just chucked your name on it. Anyway on with the release. However I do not control other peoples decisions and if they are going to disrespect the rules I have laid out concerning these issues then there is nothing I can do about it but it will be highly disappointing and hugely disrespectful to me and anyone who helped in the making of this.\n\nDownload\nThese files are updated every time I make changes to any of them, If there is anything important that I have changed or that you should know about then I will inform you on this thread and in the replies below, you will also need to download all the gsc files.\n\nSharks Zombieland [Game Mode]\n\nHow To Make Custom Maps For Zombieland (Original Thread)\n[Map Edits] Sharks Zombieland\n\n____________________________________\n\nChange Log\n\n15/10/2014 1:43AM\nFiles Edited: main.gsc\n\n- Fixed Player Death Loop Bug\n- Fixed Team Change Issues\n- Split Screeners Auto Kicked As They Cause Issues\n\n15/10/2014 12:38PM\nFiles Edited: main.gsc, functions.gsc\n\n- Fixed Another Player Death Loop\n- Added Zombie Check So People Cant Rejoin as a Human\n- Most Team Setup Issues Fixed\n\n15/10/2014 7:55PM\nFiles Edited: main.gsc, functions.gsc\n\n- Fixed ALL Known Bugs ~ Finally!!!!\n- Fixed Skorpion EVO Unknown Weapon Bug\n- Team Changing Is 100% Working For All Clients Now!\n- Added A Boolean To Decide If Host Can Become First Infected\n\n16/10/2014 3:50PM\nFiles Edited: main.gsc\n\n- Fixed An Issue Causing Game To Freeze\n- Increased Zombiefication Time\n- Removed Game Forfeit Time\n\n16/10/2014 7:51AM\nFiles Edited: main.gsc, functions.gsc\n\n- Added A Boolean Which Spawns Working Bots (level.spawnBots = true/false)\n- Added Support For Split Screeners\n\n16/10/2014 10:22AM\nFiles Edited: main.gsc\n\n- Fixed An Issue Which Caused The Game To Randomly End Even If Humans Are Still Alive!\n\n21/10/2014 11:10PM\nFiles Edited: main.gsc, functions.gsc, menu.gsc, forgefunctions.gsc, mapedits.gsc\n\n- Added Map Creation Function (Explanation Thread Soon)\n- Fixed Apparent 'Freezing' Issue?\n- Tweaked A Couple of Things\n\n26/10/2014 3:04PM\nFiles Edited: forgefunctions.gsc\n\n- Added Option To Make Walls, Grids and Ramps Invisible\n- Message Now Shows Up When You Find A Hidden Teleport Flag\n- Made Interactive Objects More Responsive\n- Fixed Some Minor Bugs\n\n3/1/2015 3:05PM\nFiles Edited: All Files\n\n- Stability Improvements\n- Added Variable To Change Turret Limit & Disable News Bar\n- Tweaked Some Functions\n\n3/8/2015 8:32PM\nFiles Edited: All Files\n\n- More Stability Improvements\n- Added Some Helpful Comments For People Wishing To Change Game Settings\n- Fixed Bug With Buying 2 Mystery Boxes At Once\n- Removed Entity Monitor (Believed To Be Causing Freezing, Thanks To xTurntUpLobbies For Working This Out!)\n- Added New Perk & Attachment, Target Finder & Faster Reload\n- Changed Door Color To Red\n- Added Magma Map Detection (For Map Edits)\n\n4/3/2015 6:36PM\nFiles Edited: main.gsc, forgefunctions.gsc\n\n- More Stability Improvements\n- Fixed Freezing Issue When Hosting Online (Finally)\n- You Can Now Use R3 & R1 To Damage Doors (Zombies)\n- Multiple People Can Damage A Door At Once Now (Zombies)\n\n4/4/2015 9:04AM\nFiles Edited: forgefunctions.gsc. main.gsc, functions.gsc\n\n- Zipline Text Is More Responsive\n- Hold Square Instead Of Press To Use Mystery Box Now\n- Mid-Game Freezing Issue Fixed\n- More Then One Person Can Use A Zipline At Once\n- Turrets Spawn In Front Of You, Not Where You Aim\n\n4/5/2015 10:11PM\nFiles Edited: forgefunctions.gsc. main.gsc, functions.gsc\n\n- Fixed A Problem With Map Edits Causing Freezing\n- Made Teleport Flags More Responsive\n- Fixed An Exploit Where Zombies Could Buy The Mystery Box\n- Zombies Can No Longer Use Turrets (They Will Die & Get A Warning Message)\n- Added New Attachment (ACOG Sight)\n- Made Some Minor Tweaks\n\n18/7/2015 6:03PM\nFiles Edited: forgefunctions.gsc. main.gsc\n\n- Minor Improvements\n- New Forge Function / CreateObject('model', origin, angle) \n\n\nForce Host & Bots\n\n- When In A Game, Go Prone And Press DPAD Right To Toggle Force Host\n- The Only Way To Get Bots Working Is By Using The Boolean 'level.spawnBots' Do Not Add Bots The Normal Way!\n- Gametype MUST Be Team Deathmatch, If Not You May Run Into Issues!\n\n\nShop Controls\n\nDPAD Up - Open Menu\nDPAD Up/Down - Scroll Up/Down\nDPAD Left - Close Menu Anywhere\nX - Select Option\nSquare - Go Back/Exit Menu\n\n\nKnown Bugs\n\n- No Known Bugs\nIf You Find Any Bugs, Please Report Them On The Thread!\n\n\nCredits\nHawkin - Ideas\nLightModzz - Ideas\nItsLollo1000 - Code Thread\nYouViolateMe - The Shop Design + Ideas\nRandoms I Met In Public Games - Testing\nWinter - Testing\nCmKs_4_LiFe - Testing\nSchool - Boring Me So Much That I Work On This\nScaR - Recording The Video + Testing\nObris/Bo - Finding Bugs & Testing\nSource Code - Perk List\ndtx12 - Making This Possible\nAnd Anyone Else That I Missed!\n\n\nEnjoy",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Sharks%20Zombieland%20v1.9.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":42,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Snipers",
+         "Version":"1.0",
+         "CreatedBy":"TrynCatchMe",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Snipers%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":43,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Survive a Disaster",
+         "Version":"1.0",
+         "CreatedBy":"Shark",
+         "SubmittedBy":"ohhsodead",
+         "Description":"This is a new gamemode i have been working on for a while now. It is fairly self explanatory, but extra instructions are provided in the RAR file.\n\nIf you find any bugs with the gamemode or have questions let me know.\nI will be updating this regularly to include more maps and possibly more disasters.\n\nPlease also note this was originally designed for nuketown, so the best quality will be on nuketown.\n\nEnjoy the game mode.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Survive%20a%20Distaster.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":44,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"The Crusher",
+         "Version":"1.1",
+         "CreatedBy":"Extinct",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello guys its Extinct here releasing my newest gamemode called 'The Crusher' this gamemode is a gamemode from Total Wipeout, I was supposed to make it ages ago but i never got round to remaking it for Black Ops 2, I wasn't going to release this gamemode on NGU since it was a super basic gamemode but i thought why not ill just release it since not everyone is subbed to my youtube, while testing this gamemode i have experianced some bugs but them bugs are now fixed, if you find anymore bugs please let me know and ill try my best to fix them!\n\nThe Crusher is a very simple gamemode to get your head around, they're two poles one that you need to duck under and one you need to jump over, if you get hit by the pole you will fall off your podium and die, you only get one life to try and survive until the last person alive or you can group as a team to try and beat The Crusher!, the poles will increase in speed over time so it will get harder!\n\nNote: I do NOT want anyone changing my name to there name in the gamemode, just please remember i have put time and effort into making this gamemode so please leave me credits!\n\nChange Log:\n\nUpdate V1.0\n\n~ Initial Release\n\nUpdate V1.1\n\n~ Fixed Some Text Bugs\n~ Added A Ducking Pole\n~ Source Updated\n\nCredits:\nLoz ~ Support\nImcsx ~ Gsc Studio\nDtx12, xTurntUpLobbies, Jwm614 ~ Overflow fix\nkokole, dtx12, master131, craigschrist ~ Making Bo2 Gsc Possible",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/The%20Crusher.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":45,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"TnT Run",
+         "Version":"1.0",
+         "CreatedBy":"Extinct",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello guys its Extinct here releasing my newest gamemode called 'TnT Run' this gamemode is a gamemode from Minecraft, I was supposed to make it ages ago but i never got round to remaking it for Black Ops 2, while testing this gamemode i have experianced some bugs but them bugs are now fixed so if you find anymore bugs please let me know and ill try my best to fix them!\n\nTnT run is basically a mini survival game where you need to run around cutting off other players and making them fall to their death, the last man standing will obviously win the game so goodluck to everyone who tries out the gamemode!\n\nNote: I do NOT want anyone changing my name to there name in the gamemode, just please remember i have put time and effort into making this gamemode so please leave me credits!\n\nChange Log:\n\nUpdate V1.0\n\n~ Initial Release\n\nCredits:\nLoz ~ Support\nImcsx ~ Gsc Studio\nDtx12, xTurntUpLobbies, Jwm614 ~ Overflow fix\nkokole, dtx12, master131, craigschrist ~ Making Bo2 Gsc Possible",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/TnT%20Run.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":46,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Trouble In Terrorist Town",
+         "Version":"1.0",
+         "CreatedBy":"Can't Locate",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Trouble in Treyarch Town (A Trouble in Terrorist Town style game)\nRules video\nIf you've played Trouble in Terrorist Town, you should get the gist of this. Number of terrorists are determined by number of people in lobby. If at most 8+ players in lobby = 2 terrorists, 12+ players = 3 terrorists, 16+ players = 4 terrorists.\nMap: Any (large maps work best)\nGame Mode: Free for All\nRules:\nTime Limit - 5 Minutes\nScore Limit - Unlimited\nHardcore - On\nFree for All Settings:\nPoints per Kill - 0\nNumber of Lives - 1 Life\nGeneral Settings:\nScorestreaks - Not Allowed\nPre-Match Timer - 60 Seconds\nKillcam - Off\nMini-Map - Sweeping\nBattlechatter - Off\nExplosive Delay - Off\nHealth and Damage Settings:\nHealth - 200%\nHealth Regeneration - None\nCustom Classes:\nThese I leave up to the host. The only requirement is Cold Blooded.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Trouble%20In%20Terrorist%20Town.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":47,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"VIP",
+         "Version":"1.0",
+         "CreatedBy":"Can't Locate",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/VIP.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":48,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"XP Lobby",
+         "Version":"2.4.1",
+         "CreatedBy":"NBB",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello NGU, Nothingbutbread here with my XP Lobby Mod menu/terminal. I'm kicking off 2018 with the initial public release (public beta) of NBB's XP Lobby V4. A menu that is aimed at being rogue, radical and targets players who are control freaks. V4.0.0 Public Beta is a completely rebuilt menu with most functions from V3.0.1 getting updated and improved and with the addition of more of them. The menu base allows for a near infinite amount of ways to edit your xp lobby and everything else adjustable with a command.\n\nNew features in V4.0.0 Public Beta\n> Host and fully customize XP lobbies with the highest precision possible of any mod that does xp/unlocks lobbies.\n> Once you have chosen a preset XP lobby or set one up yourself, you can save it and have it auto-setup when you start a new match\n> Whitelist/Blacklist support that supports names and clantags.\n> Improved XP lobby functions, several bugs have been removed from V3.0.1's XP functions.\n> Build custom commands by looping, setting to trigger on or running on all players any command that is usable from the menu.\n> Other players can now use the menu, a feature removed V2.4 but re-added.\n> Command permissions are changeable in-game by the host.\n> A bunch of other stuff ...\n\nHow to use: Press L1 (ADS) and R3 (Melee) to open menu. Use DPAD arrows keys to navigate, press Square (reload) to use an option / add a character to the command line. Read the howtouse.txt (included in the download) for more info.\n\nChange log for V4.0.0 Public beta:\n1) New menu base.\n2) Everything rewritten.\n\nVideo V3.0.0 Shown: (Will update to a V4.0.0 one once I finish that video)\n\n\nDownloads:\nV4.0.0 Public beta Compiled for PC and Console + GSCR:\nNBBXPLobbyV4 Public Beta\n\nV3.0.1 Source + Compiled for PC and Console + GSCR\nNBBXPLobbyV3..1 Full Release [Remasted Edition]\n\nOlder downloads:\nDownload links to all previously released versions can be found in the most recent download in the 'Olderversions.txt'.\nThis has been done to clean up thread and to clear up confusion on what version to download.\n\n\nHaving stability issues on the PS3? Try a differnt EBOOT.BIN, that may be your issue.\nIf you're on DEX and have DLC installed, try this EBOOT: EBOOT\nThat EBOOT loads the SPRX: 'BO2GSCDebuger' and has no recoil and anti-ban.\n\nKnown Bugs: V4.0.0 Public beta\n1) General random XP giving issues:\n- Server Command Overflow sometimes happens to cleints while getting unlocks\n- Sometimes clients who should get xp don't get it.\n2) Some times when other modders join, the ' sl client command received with 1 parameters instead of 3 ' error can be received.\n3) General spelling errors in descriptions, print statements ect.\n\nCredits. For Versions 4.0.0 Public Beta\nNGU's GSC Script lists: General bits of code\nShark: drawtext, drawshader and drawvalue.\nThe people who made the GSC Overflow fix: GSC Overflow fix. ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/XPLobbyNBB%20v2.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":49,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"Conversion",
+         "Version":"1.5",
+         "CreatedBy":"xMasterModzx",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello everyone! Sorry i've been gone for so long, But as i said, i'd really like to work on a v2. SO I AM! Happy Hopefully soon i will have some beta videos up of the work in progress just to show you guys everything i've been working on! But for now please enjoy my current Conversion v1.5 and thank you all!!! Cheesy\n\nUPDATES\n\nVersion 1.0\n\n- Initial Release\n\nVersion 1.1\n\n- Added Remove Death Barrier And Have More Than 2 Weapons\n- Added Round Editor\n- Added/Fixed Options\n- Bug Fixes\n\nVersion 1.2\n\n- Added Menu Options\n- Added Fixed/Updated Menu Options (Round Editor)\n- Stability Improvements\n- Small Menu Changes\n- Small Bug Fixes\n\nVersion 1.3\n\n- Added Menu Options\n- Added Stats Menu\n- Bug Fixes\n- Optimized Code\n\nVersion 1.4\n\n- Added Gametypes Menu (Will be adding more gametypes in future updates!)\n- Added Menu Options\n- Added Page In Admin Menu\n- Bug Fixes\n- Stability Improvements\n- More Little Changes\n\nVersion 1.5\n\n- Added Menu Options\n- Added Merry-Go-Round\n- Added Forge Lobby Gametype\n- Added Survival Mode Gametype\n- Added More Map Compatibility (Unique Options On Certain Maps)\n- Added More Weapons\n\n\nPlease subscribe if you enjoy and give me feedback as always Smile\n\nTHANKS!!!!!",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/Conversion%20v1.5.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":50,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"EnCoRe",
+         "Version":"9.7",
+         "CreatedBy":"CabCon",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Hello everyone! Sorry i've been gone for so long, But as i said, i'd really like to work on a v2. SO I AM! Happy Hopefully soon i will have some beta videos up of the work in progress just to show you guys everything i've been working on! But for now please enjoy my current Conversion v1.5 and thank you all!!! Cheesy\n\nUPDATES\n\nVersion 1.0\n\n- Initial Release\n\nVersion 1.1\n\n- Added Remove Death Barrier And Have More Than 2 Weapons\n- Added Round Editor\n- Added/Fixed Options\n- Bug Fixes\n\nVersion 1.2\n\n- Added Menu Options\n- Added Fixed/Updated Menu Options (Round Editor)\n- Stability Improvements\n- Small Menu Changes\n- Small Bug Fixes\n\nVersion 1.3\n\n- Added Menu Options\n- Added Stats Menu\n- Bug Fixes\n- Optimized Code\n\nVersion 1.4\n\n- Added Gametypes Menu (Will be adding more gametypes in future updates!)\n- Added Menu Options\n- Added Page In Admin Menu\n- Bug Fixes\n- Stability Improvements\n- More Little Changes\n\nVersion 1.5\n\n- Added Menu Options\n- Added Merry-Go-Round\n- Added Forge Lobby Gametype\n- Added Survival Mode Gametype\n- Added More Map Compatibility (Unique Options On Certain Maps)\n- Added More Weapons\n\n\nPlease subscribe if you enjoy and give me feedback as always Smile\n\nTHANKS!!!!!",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/EnCoRe%20v9.7.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":51,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"Fenix",
+         "Version":"5.0",
+         "CreatedBy":"Krypton",
+         "SubmittedBy":"ohhsodead",
+         "Description":"​This is the most stable menu for Bo2 zombies I have found yet!\nIt had mods for every zombie game mode, I've given Co-Host to my Friends for over an hour and never froze ;)\nEnjoy :D\n\n☞HOW TO USE MENU:\nOPEN MENU: L1+O\nSCROLL UP: ARROW UP\nSCROLL DOWN: ARROW DOWN\nSELECT: SQUARE\nBACK: R3",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/Fenix%20v5.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":52,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"The Final Statement",
+         "Version":"5.0",
+         "CreatedBy":"CabCon",
+         "SubmittedBy":"ohhsodead",
+         "Description":"​Today I will present you the alpha of 'The Final Statement'. I´m not finish at all! And the menu have much bugs in the entity menu, but yeah this is a kind rushed release but I can´t wait anymore to release this. I don´t have much motivation to work on this anymore project. I did all what I want, a completely dynamic menu and now I just need to add the 'normal' zombie options. Maybe I will share the source with you that someone else can work and finish this project. Happy My next plan is to create much new Functions for bo2 and prepare my self for bo3. I have planned to remake Death Run for Bo3 when the mods tool are released. What do you think about this? Also please give me a feedback/bugs in the comments! Thank you and have a nice Day! Happy Modding!\n\n'The Final Statement' Information\n\nDescription:The Final Statement is*a Zombie Full Dynamic GSC Mod Menu which I started developing to create my last zombie menu!\n\nFeaturelist:\nMenu Features:\n- Dynamic Array Weapons (Normal,Upgraded) Menu\n- Dynamic Array Items(Equipment,Grenades,Melees) Menu\n- Dynamic Array FX&Weapons Bulletstype Menu (More than 300 Bulleteffects)\n- Dynamic Model Menu\n- Dynamic Array Buildables Menu\n- Dynamic Perks Menu\n- Dynamic PowerUps Menu\n- Dynamic Sound Menu\n- First Dynamic Zombie Music Playlist like in w@w times (Box Jingles/Stings, Easter Egg Songs, Game Theme Music, Hidden Game Songs)\n- Message Menu with Mics -, People- and Teams- and Troll- Prints\n- Dynamic Teleport Menu\n\nMenu Base Features\n- Title/Options String Overflowfix\n- Thoughtful Menustructure\n- Intelligent Toggle System\n- Controller Remembrance\n- Sounds and Visual Effects\n- Customizable (Positon,Color,Font,Sounds,Stealth,Controller Remembrance)\n- Postion Editor ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/Final%20Statement%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":53,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"I AM ZOMBIE",
+         "Version":"0.95",
+         "CreatedBy":"CabCon",
+         "SubmittedBy":"ohhsodead",
+         "Description":"​Dear NGU Community,\nI´m CabCon and today I decide to share this with you. This is I AM A ZOMBIE, its a project that I started after the big variables problem with EnCoReV9 . This time I want create a Menu with a better Stability and more Functions Happy.NzV started work at the June, but I don´t really like working more on zombie gsc menus. And today I said : 'Ok, just shared it before nobody use it Happy'. Maybe I will start my Final Zombie Menu in the summer holidays Happy But now I search some developers, how will finish this project maybe some one how created already a zombie menu or a good gsc coder Happy. Feel free to write your skype down below, I will contact you. But download the Alpha and try it out. And please don´t so critical, the menu isn´t finished. Your CabCon, sorry for my english !\n\nUpdate Log\nVersion 0.5\nRelease\nVersion 0.7 ALPHA\nDefault Zombie Menu Options - All default thinks...God, ammo , fov , points ...\nNew Forge Mode Menu - like W@W times. Dynamic Models. More features will comming soon !\nOverflow Fix - The Menu will never crash for a String Overflow\nAdded Zombie Menu - Functions for Zombies, Mover Speed, Spawn Delay, more...\nWeapon Mods added - Mods for Weapons\nVisions Menu - Change Player Vision\nDynamic Weapons Menu - First time perfect for origins\nDynamic Power Ups / Perks Menu - First time perfect optimized !\nAccount Menu - Set Money from your bank account. Will add more soon Happy\n\nVersion 0.8 ALPHA V2\nBugs Fixed\nKill All zombies now work without crashes\nBullets Menu is fixed\nTeleport Function is hopefully fixed\nThe FoV Weapon shows different Numbers in the Killfeed is now fixed\nSpawn Zombie does nothing is fixed\nAdded Big Fx Menu\nAdded new Function at all.\nUfo and Jetpack now a bit faster.\nSome other small chnages at all.\n\nVersion 0.9BETA\nBugs Fixed\nDynamic Fx Bullets Sytem added\nDynamic Stats System added (change value of stats/A cool slider will come soon)\nOther small changes\n\nVersion 0.95 BETA V2\nBugs Fixed\nPlayer Menu Options increased\nStats Account System bugs fixed\nOther small changes at all\n\nCredits\nNzV\nCabCon\nNGU Community ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/I%20AM%20ZOMBIE%20v0.95.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":54,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"Project Iconic [SENTINEL]",
+         "Version":"2.0",
+         "CreatedBy":"SeriousHD-",
+         "SubmittedBy":"ohhsodead",
+         "Description":"​It has so many options, that i can't even bothered to list... soz\n\n*ONE OF THE BEST EVER ZOMBIES MENUS TO BE FOUND*",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/Project%20Iconic%20%5BSENTINEL%5D.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":55,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"RM|T Menu",
+         "Version":"2.6",
+         "CreatedBy":"ThrzModding",
+         "SubmittedBy":"ohhsodead",
+         "Description":"​Yo guys\n\nToday im releasing RM|T Zombies Menu V2 hope you like it Happy\n\nRMT Zombies Menu V2.6\n\nCredits:\nThrzModding\nxTurntUpLobbies\nNGU community\nZeiiKeN\nCabcon\nFRINZ\noCmKs_4_LiFe\nGentleSlugger\n\nUpdates:\nVersion 1.0\n\nInitial Release\n\nVersion 1.1\n\nBug Fixes\n\nVersion 1.2\n\nAdded All Max Rank\nAdded All Funny Mods\n\nVersion 2.0\n\nNew Menu Base\nFixed x2 speed\nAdded more weapons\nRemoved A Few Do Hearts\nAdded Secret Room On Tranzit\nAdded Arrow Bullets\nAdded Frog Jump\nAdded 360 Prone\nAdded Blinking Man\nAdded All Blinking Man\n\nVersion 2.1\n\nAdded Give Player Unlimited Ammo\nAdded Give Player Max Rank\nAdded Give Player Trophies\nAdded Give Player Default Weapon\nAdded Give Player JetGun\nAdded Give Player Sliquifier\nAdded Give Player Blundergat\nAdded Give Player Paralyzer\nAdded Give Player Staff of Lightning\nAdded Give Player Staff of Fire\nAdded Give Player Staff of Ice\nAdded Give Player Staff of Wind\nAdded All Default Weapon\nAdded All JetGun\nAdded All Sliquifier\nAdded All Blundergat\nAdded All Paralyzer\nAdded All Staff of Lightning\nAdded All Staff of Fire\nAdded All Staff of Ice\nAdded All Staff of Wind\n\nVersion 2.2\n\nMade It So Only The Host Can Activate Gun Left Side\nAdded Sexy Apperiance\nAdded All Sexy Apperiance\nAdded BJ Guys\nAdded Perk Machine Jingles\nAdded Theme Menu\nAdded Roll Away Actor\nAdded Roll Away Teddy\nAdded Disco Sun\nAdded Build All Tables\nAdded Send All to Space\nAdded Send Player To Space\nAdded Spin Player\nAdded Welcome Message Thanks To Frinz\n\nVersion 2.3\n\nAdded Secret Room On NukeTown\nAdded Restart Game\nAdded End Game\nAdded Give All Perks\nAdded Give Player Perks\nAdded Give All Player Perks\n\nVersion 2.4\n\nAdded Complete All Richtofen Easter Eggs\nAdded Complete All Maxis Easter Eggs\nAdded Real Monkey Bombs\nAdded Time Bombs On Buried\nAdded Fill Bank\nAdded Pack A Punch Camo To All Weapons\n\nVersion 2.5\n\nMade Welcome Message Not Show Up Till Black Screen Passed\nFixed Do Heart OverflowFix Bugs\nAdded Vision Scroller\nAdded Explosion Man\nAdded Electric Man V2\nAdded Cloud Man\nAdded Glass Man V2\nAdded Spark Man\nAdded Spark Man V2\nAdded All Explosion Man\nAdded All Added Electric Man V2\nAdded All Cloud Man\nAdded All Glass Man V2\nAdded All Spark Man\nAdded All Spark Man V2\nAdded Kid Ride\nAdded Earthquake Electric Man, Earthquake Brutus, Earthquake Leroy, Earthquake Panzer\nAdded Fast Exit\nAdded Invisible Zombies\nAdded Air Strike Grenade On Origins\nAdded Zombies Walk, Run, Sprint, Super Sprint, Crawl\nAdded Error Message When Game Ends\nFixed/Changed A Few Things\nAdded 4 Host Only Binds\n\nVersion 2.6\n\nFixed/Changed A Alot Of Things\nAdded Sphere Bullets\nAdded Adventure Time\nAdded All Adventure Time\nAdded Fake Lag\nAdded Pause Game\nAdded Mud Man V2\nAdded All Mud Man V2\nAdded Fire Man V2\nAdded All Fire Man V2\nAdded Gay Guys\nAdded Ragdoll Centipede\nAdded Spiral Stairs\nAdded Flip Man\nAdded Flashing Theme ",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/RMT%20Menu%20v2.6.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":56,
+         "GameType":"ZM",
+         "ModType":"Menu",
+         "Name":"The Purgatory Menu",
+         "Version":"1.0",
+         "CreatedBy":"King",
+         "SubmittedBy":"ohhsodead",
+         "Description":"The Purgatory\nHi guys today I will be releasing the menu I have been working on.\nThis is far from done I but I wanted to release this anyway :grinning:\nplease let me know if you run into any bugs and ill fix them ASAP\nbut other than that i hope you enjoy :grinning:\n\nif you have any ideas for what i should add into the next update be sure to let me know and ill do my best to add them in :grinning:\n\nCabCon\nBaDSooD\nProlixUK\nConnorWardx\nSheperdebops",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/The%20Purgatory%20v1.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":57,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Project Serenity",
+         "Version":"4.0",
+         "CreatedBy":"Pahbu & DTMF",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Serenity%20v4.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":58,
+         "GameType":"ZM",
+         "ModType":"Mode",
+         "Name":"One Window Challenge",
+         "Version":"4.0",
+         "CreatedBy":"NyTekCFW",
+         "SubmittedBy":"ohhsodead",
+         "Description":"Custom Zombies Map Edit (TranZit) (Works Online With Players!)",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/ZM/GAMEMODES/Serenity%20v4.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes_zm/_clientids.gsc"
+         ]
+      },
+      {
+         "Id":59,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"BatMan",
+         "Version":"17.0",
+         "CreatedBy":"Lukzyx",
+         "SubmittedBy":"oVxzi",
+         "Description":"----BatMan v17 Dpad Binds-----\n\n-----------Xbox 360/One------------\nCrouch & Dpad Down (FFA INSTANT LAST)\nProne & Up (SAVE AND LOAD)\nCrouch & Right (QUICK MODS)\nProne & Down (CROSSHAIR AIMBOT)\nProne & Right (SUPER LEGIT AIMBOT)\nProne & Left (NORMAL TRICKSHOT AIMBOT)\n\n--------Playstation 3/4------------\nCrouch & Down (FFA INSTANT LAST)\nProne & Up (SAVE AND LOAD)\nCrouch & Right (QUICK MODS)\nProne & Down (CROSSHAIR AIMBOT)\nProne & Right (SUPER LEGIT AIMBOT)\nProne & Left (NORMAL TRICKSHOT AIMBOT)\n\n-------------------\n@Lukzyx\n--------------------\n\n(Tutorial) *HOW TO USE BATMAN V17 ONLINE* (Tutorial) \nXBOX 360, PLAYSTATION\n--------------------------------------------------\nLoad Up Bo2 MP, Go To 'Custom Games/Private Match'\n'Not Local Play'\n'Not Split Screen'\nWhen Injected, Start The Game\n-------------------------------------------------------\nWhen Spawned, Open Menu\n'Aim & Knife'\n'Dpad Up, To Go Up'\n'Dpad Down, To Go Down'\n'A/X To Select An Option'\n'X/O To Go Back/Close Menu'\n-----------------------------------------\nClick Force Host, Endgame\n'Must Be In Custom Games/Private Match'\n-----------------------------------------------------\nGo Online, Search For A Game\n'You Should Be In Pre-Game On Your Own'\n'When You See The Maps, You Can Force Start Or Wait For Players'\n--------------------------------------------------------------------\nEnjoy F**king Kids Up! \n#TeamLukzy\n#BatManV17\n----------------------\n@Lukzyx\n----------------------",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/BatMan%20v17.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":60,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Project Unknown",
+         "Version":"-",
+         "CreatedBy":"47colten",
+         "SubmittedBy":"oVxzi",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Project%20Unknown.zip",
+         "InstallPaths":[
+            "maps/mp/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":61,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"WhiteWater",
+         "Version":"5.5",
+         "CreatedBy":"xTurntUpLobbies",
+         "SubmittedBy":"oVxzi",
+         "Description":"Created By:\nxTurntUpLobbies, YouViolateMe & JokerRey\nUpdate 5\n- Fixed problem where the host wouldn't get the infection menu\n- GREATLY increased stability thanks to Sygnus for the _rank.gsc\n\nInformation\n\nThis menu was built from the ground up.\nThe menu was based on WhiteWater v5 for MW2. ​\nIt is the most stable Black Ops 2 menu to date and has no overflow!​\nThis menu is nearly an exact replica of WhiteWater.​\nThis menu base has been coded by YouViolateMe, however has been edited and fixed with better Verification added.​\nWe have worked on this menu for countless hours, fixing bugs with overflow and other common functions.​\nThe overflow fix is VERY strong! It has been heavily tested and works great :heart:​\nThe overflow fix is not TheFallen's. It is our own edited version of jwm's overflow fix.​\n\nCredits:\nSygnus for codes and help:\nFeverDEX for helping in the beginning\nJwm614\nJakes625\nDerekTrotter\nBlackStorm\nTheFallen\nLoz\nReflex_Modz\nEliteMossy\naerosoul\ndtx12\ncraigs Christ\nshark\nxYardSalex\nxTurntUpLobbies\nYouViolateMe\nJokerRey",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/White%20Water%20v5.5.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes/_rank.gsc"
+         ]
+      },
+      {
+         "Id":62,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"WhiteWater",
+         "Version":"5.5",
+         "CreatedBy":"xTurntUpLobbies",
+         "SubmittedBy":"oVxzi",
+         "Description":"Created By:\nxTurntUpLobbies, YouViolateMe & JokerRey\nUpdate 5\n- Fixed problem where the host wouldn't get the infection menu\n- GREATLY increased stability thanks to Sygnus for the _rank.gsc\n\nInformation\n\nThis menu was built from the ground up.\nThe menu was based on WhiteWater v5 for MW2. ​\nIt is the most stable Black Ops 2 menu to date and has no overflow!​\nThis menu is nearly an exact replica of WhiteWater.​\nThis menu base has been coded by YouViolateMe, however has been edited and fixed with better Verification added.​\nWe have worked on this menu for countless hours, fixing bugs with overflow and other common functions.​\nThe overflow fix is VERY strong! It has been heavily tested and works great :heart:​\nThe overflow fix is not TheFallen's. It is our own edited version of jwm's overflow fix.​\n\nCredits:\nSygnus for codes and help:\nFeverDEX for helping in the beginning\nJwm614\nJakes625\nDerekTrotter\nBlackStorm\nTheFallen\nLoz\nReflex_Modz\nEliteMossy\naerosoul\ndtx12\ncraigs Christ\nshark\nxYardSalex\nxTurntUpLobbies\nYouViolateMe\nJokerRey",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/White%20Water%20v5.5.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes/_rank.gsc"
+         ]
+      },
+      {
+         "Id":63,
+         "GameType":"MP",
+         "ModType":"Mode",
+         "Name":"Dodgeball",
+         "Version":"1.1",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Description":"",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/GAMEMODES/Dodgeball.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes/_development_dvars.gsc"
+         ]
+      },
+      {
+         "Id":64,
+         "GameType":"MP",
+         "ModType":"Menu",
+         "Name":"Mapvote",
+         "Version":"1.0",
+         "CreatedBy":"TheHiddenHour",
+         "SubmittedBy":"ohhsodead",
+         "Description":"- Does not use map shaders, only server text to display map names (mp_raid for ex.).\n- Mapvote only executes on the first round of the match.\n- Players are only allowed to vote if they spawn during prematch, not if they join mid-game.\n- Map automatically changes at the end of killcam.\n- Prone debug binds for exiting level and restarting map.\n\nBugs \n- Players will sometimes spawn in the middle of the map and be unable to move. This usually occurs after the very first map change, but may happen multiple times. It can be fixed by restarting the map.\n\nNotes\n- Tested on a CFW PlayStation 3.\n- Developed using personal tools but the `scripts` directory should compile in GSC Studio.",
+         "URL":"https://raw.githubusercontent.com/ohhsodead/arisen-gsc-database/main/MODS/BO2/MP/Mapvote.zip",
+         "InstallPaths":[
+            "maps/mp/gametypes/_development_dvars.gsc"
+         ]
+      }
+   ]
+}
