@@ -1,0 +1,16 @@
+{
+   "Files": [
+      {
+         "Name":"maps/_cheat.gsc",
+         "Pointer":15279928,
+         "Buffer":808881728,
+         "Size":2350
+      },
+      {
+         "Name":"maps/_dev.gsc",
+         "Pointer":15280156,
+         "Buffer":808954048,
+         "Size":64
+      }
+   ]
+}
